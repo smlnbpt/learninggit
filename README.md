@@ -1,2 +1,2 @@
 # learninggit
-##### learning git and github
+##### learning _git_ and **github**
